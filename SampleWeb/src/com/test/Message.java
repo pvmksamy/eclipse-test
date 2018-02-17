@@ -2,5 +2,5 @@ package com.test;
 
 public class Message {
 
-	String msg = "Hello";
+	String msg = "Hello World";
 }
